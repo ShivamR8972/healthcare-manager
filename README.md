@@ -3,6 +3,8 @@
 A comprehensive healthcare management platform with dedicated role-based dashboards for **Patients**, **Doctors**, and **Administrators**. The application enables secure appointment booking with **double-booking prevention**, **Google Calendar synchronization**, **email notifications**, and **AI-powered clinical assistance** using **Google Gemini**.
 
 ---
+#Currently Deployed At: https://healthcare-manager-nine.vercel.app/
+---
 
 # ✨ Features
 
